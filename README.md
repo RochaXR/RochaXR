@@ -28,7 +28,7 @@
 
 ### 🚀 Últimos Repositórios (Atualizado automaticamente)
 <!-- REPOS:START -->
-*Os repositórios públicos criados ou atualizados aparecerão aqui automaticamente.*
+*Nenhum repositório público além do perfil ainda — em breve novos projetos!*
 <!-- REPOS:END -->
 
 ---
