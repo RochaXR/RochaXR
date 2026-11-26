@@ -28,7 +28,8 @@
 
 ### 🚀 Últimos Repositórios (Atualizado automaticamente)
 <!-- REPOS:START -->
-*Nenhum repositório público além do perfil ainda — em breve novos projetos!*
+- **[Projeto-CA6-Controle-PWM-de-motor](https://github.com/RochaXR/Projeto-CA6-Controle-PWM-de-motor)** — Projeto em desenvolvimento
+- **[Simulador-DATAPOOL-PWM-para-motor](https://github.com/RochaXR/Simulador-DATAPOOL-PWM-para-motor)** — Projeto em desenvolvimento
 <!-- REPOS:END -->
 
 ---
